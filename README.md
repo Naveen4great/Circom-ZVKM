@@ -130,4 +130,4 @@ This project is straightforward with just two main commands. However, you might 
 
 ## License
 
-This project is licensed under the [Amar] License. See the LICENSE.md file for more details.
+This project is licensed under the [Naveen] License. See the LICENSE.md file for more details.
