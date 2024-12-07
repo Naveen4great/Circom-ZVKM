@@ -125,7 +125,7 @@ This project is straightforward with just two main commands. However, you might 
 
 ## Authors
 
-Naveen Vinu ***
+Naveen Vinu (second try) 
 
 (naveenvinu5638@gmail.com)
 
